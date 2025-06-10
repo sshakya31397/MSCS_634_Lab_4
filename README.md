@@ -36,19 +36,6 @@ Visualizations were used to interpret performance, compare predicted vs. actual 
 - **Lasso Regression** adds L1 regularization, effectively zeroing out weak predictors, which can simplify the model and act as automatic feature selection.
 - Regularization techniques help combat overfitting, especially with complex models or small datasets.
 
----
-
-## Model Performance Summary
-
-| Model Type              | MAE   | MSE   | RMSE  | R²     |
-|------------------------|-------|-------|--------|--------|
-| Linear Regression      | ...   | ...   | ...    | ...    |
-| Multiple Regression    | ...   | ...   | ...    | ...    |
-| Polynomial (Degree=2)  | ...   | ...   | ...    | ...    |
-| Ridge Regression       | ...   | ...   | ...    | ...    |
-| Lasso Regression       | ...   | ...   | ...    | ...    |
-
-*Note: Fill in your actual values above.*
 
 ---
 
@@ -64,8 +51,7 @@ Visualizations were used to interpret performance, compare predicted vs. actual 
 ## Files Included
 
 - `Diabetes_Regression_Analysis.ipynb` — Main Jupyter Notebook with all code, results, and graphs.
-- `README.md` — This file.
-- (Optional) `Walmart_Sales.csv` or other datasets used for comparison/testing.
+- `README.md` 
 
 ---
 
